@@ -1,4 +1,4 @@
-# Linux driver for Broachlink Noah series
+# Front LED & button Linux driver for Broachlink Noah series 
 
 ## History
 
